@@ -179,7 +179,7 @@ var stateData = {
 		flower: 'Violet',
 		nickname: 'Prairie State'
 	},
-	'in': {
+	in: {
 		name: 'Indiana',
 		abbr: 'IN',
 		capitol: 'Indianapolis',
